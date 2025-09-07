@@ -1,0 +1,143 @@
+{
+  "real_estate": {
+    "fa": "املاک",
+    "ps": "ملکونه",
+    "en": "Real Estate",
+    "sub": [
+      {
+        "fa": "فروش مسکونی",
+        "ps": "د استوګنې خرڅلاو",
+        "en": "Residential Sale"
+      },
+      {
+        "fa": "اجاره مسکونی",
+        "ps": "کرایه",
+        "en": "Residential Rent"
+      },
+      {
+        "fa": "اداری و تجاری",
+        "ps": "اداري او تجارتي",
+        "en": "Office & Commercial"
+      }
+    ]
+  },
+  "vehicles": {
+    "fa": "وسایل نقلیه",
+    "ps": "وسایط",
+    "en": "Vehicles",
+    "sub": [
+      {
+        "fa": "موتر",
+        "ps": "موټر",
+        "en": "Cars"
+      },
+      {
+        "fa": "موترسایکل",
+        "ps": "موټرسایکل",
+        "en": "Motorcycles"
+      },
+      {
+        "fa": "پرزه‌جات",
+        "ps": "پرزې",
+        "en": "Spare Parts"
+      }
+    ]
+  },
+  "services": {
+    "fa": "خدمات",
+    "ps": "خدمات",
+    "en": "Services",
+    "sub": [
+      {
+        "fa": "نظافت",
+        "ps": "سپينه",
+        "en": "Cleaning"
+      },
+      {
+        "fa": "تعمیرات",
+        "ps": "ترميم",
+        "en": "Repairs"
+      },
+      {
+        "fa": "آموزش",
+        "ps": "تعليم",
+        "en": "Education"
+      }
+    ]
+  },
+  "personal": {
+    "fa": "وسایل شخصی",
+    "ps": "شخصي",
+    "en": "Personal Items",
+    "sub": [
+      {
+        "fa": "لباس",
+        "ps": "کالي",
+        "en": "Clothes"
+      },
+      {
+        "fa": "کفش",
+        "ps": "بوټ",
+        "en": "Shoes"
+      }
+    ]
+  },
+  "fun": {
+    "fa": "سرگرمی و فراغت",
+    "ps": "تفريح",
+    "en": "Entertainment",
+    "sub": [
+      {
+        "fa": "کتاب",
+        "ps": "کتابونه",
+        "en": "Books"
+      },
+      {
+        "fa": "ورزش",
+        "ps": "ورزشي",
+        "en": "Sports"
+      }
+    ]
+  },
+  "social": {
+    "fa": "اجتماعی",
+    "ps": "ټولنیز",
+    "en": "Social",
+    "sub": [
+      {
+        "fa": "دوستی",
+        "ps": "مرستی",
+        "en": "Community"
+      }
+    ]
+  },
+  "industrial": {
+    "fa": "تجهیزات صنعتی",
+    "ps": "صنعتي تجهيزات",
+    "en": "Industrial",
+    "sub": [
+      {
+        "fa": "ماشین‌آلات",
+        "ps": "ماشينونه",
+        "en": "Machinery"
+      }
+    ]
+  },
+  "jobs": {
+    "fa": "استخدام و کاریابی",
+    "ps": "دندې",
+    "en": "Jobs",
+    "sub": [
+      {
+        "fa": "اداری",
+        "ps": "اداري",
+        "en": "Office"
+      },
+      {
+        "fa": "فنی",
+        "ps": "Technical",
+        "en": "Technical"
+      }
+    ]
+  }
+}
